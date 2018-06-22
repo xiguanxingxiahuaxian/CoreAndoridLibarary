@@ -1,6 +1,8 @@
 package com.neuqsoft.core.api;
 
-import com.basego.cool.core.bean.displayDTO;
+
+
+import com.neuqsoft.core.bean.displayDTO;
 
 import retrofit2.http.GET;
 import retrofit2.http.Query;
